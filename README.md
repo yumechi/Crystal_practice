@@ -1,0 +1,2 @@
+# Crystal_practice
+Crystalの本その3を入手したのでメモがてら
